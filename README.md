@@ -1,36 +1,83 @@
-<h1 align="center">Hi 👋, I'm Maram BERRAHAL</h1>
-<h3 align="center">Software Engineering Graduate | Back-End Developer | Robotics</h3>
+# 👋 Hi, I'm Maram BERRAHAL
 
-- 👨‍💻 All of my projects are available at [https://my-prtfolio.onrender.com/](https://my-prtfolio.onrender.com/)
+### Software Engineering Graduate | Back-End Developer | Robotics Enthusiast
 
-- 📫 How to reach me **berrahalmaram5@gmail.com**
+💻 Passionate about **Back-End Development, Web Applications, and Robotics**.
 
-<h3 align="left">Connect with me:</h3>
+🌱 Currently improving my skills in **Node.js, Express.js, TypeScript, MongoDB, and SQL**.
+
+👨‍💻 Check out my projects on my [Portfolio](https://my-prtfolio.onrender.com/)
+
+📫 Reach me at **berrahalmaram5@gmail.com**
+
+---
+
+## 🤝 Connect with me
+
 <p align="left">
-<a href="https://linkedin.com/in/maram-berrahal-b78897340" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maram-berrahal-b78897340" height="30" width="40" /></a>
+  <a href="https://github.com/Maram-CS">
+    <img src="https://img.shields.io/badge/GitHub-Maram--CS-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/maram-berrahal-5a7737373/">
+    <img src="https://img.shields.io/badge/LinkedIn-Maram%20Berrahal-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maram-cs&show_icons=true&locale=en&layout=compact" alt="maram-cs" /></p>
+## 🛠️ Languages & Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maram-cs&show_icons=true&locale=en" alt="maram-cs" /></p>
+### 💻 Back-End Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,js,ts,mongodb,mysql,postgres,postman" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maram-cs&" alt="maram-cs" /></p>
-## Hi there 👋
+### 🎨 Front-End Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
-<!--
-**Maram-CS/Maram-CS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 Tools & Other Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,arduino,blender" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Maram-CS&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maram-CS&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 📋 Task Management API
+RESTful API built with **Node.js, Express.js, and MongoDB**.
+
+- JWT Authentication
+- Role-Based Authorization
+- REST API architecture
+- Tested with Postman
+
+### 🌐 Personal Portfolio
+Responsive portfolio website built with **HTML, CSS, and JavaScript**.
+
+🔗 [View Portfolio](https://my-prtfolio.onrender.com/)
+
+### 🤖 Line Follower Robot
+Robotics project involving sensors and motor control using **Block's Language**.
+
+---
+
+## 📫 Contact
+
+📧 **Email:** berrahalmaram5@gmail.com  
+💼 **LinkedIn:** [Maram Berrahal](https://www.linkedin.com/in/maram-berrahal-5a7737373/)  
+🐙 **GitHub:** [Maram-CS](https://github.com/Maram-CS)
